@@ -1,9 +1,9 @@
 
 const Header=()=>{
     return <div>
-        ניתובים
-        לוגו
-        שלום ל
+       routes 
+       logo 
+       welcome to ...
     </div>
 }
 export default Header
